@@ -1,5 +1,5 @@
--- W10 Assignment: Summary Queries --
--- Author: Gizelle Manilay -- 
+-- Summary Queries --
+-- Author: Gizelle Stenson -- 
 
 --
 -- Questions 1-3 using the bike database 
